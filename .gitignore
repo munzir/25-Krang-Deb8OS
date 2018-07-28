@@ -9,23 +9,19 @@
 # Readme
 !README.md
 
-# Home
-!/home
-/home/*
-
 ## apatel435
-!/home/apatel435
-/home/apatel435/*
-
+!/apatel435
+/apatel435/*
 ### scripts
-!/home/apatel435/scripts
-/home/apatel435/scripts/*
-!/home/apatel435/scripts/mntDeb7.sh
+!/apatel435/scripts
+/apatel435/scripts/*
+#### mntDeb7.sh
+!/apatel435/scripts/mntDeb7.sh
 
 ## munzir
-!/home/munzir
-/home/munzir/*
+!/munzir
+/munzir/*
 
 ## shimin
-!/home/shimin
-/home/shimin/*
+!/shimin
+/shimin/*
