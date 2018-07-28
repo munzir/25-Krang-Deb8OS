@@ -1,0 +1,31 @@
+# Add based on hierarchy and then alphabetically
+
+# Exclude all files/directories except the ones we want
+/*
+
+# .gitignore
+!.gitignore
+
+# Readme
+!README.md
+
+# Home
+!/home
+/home/*
+
+## apatel435
+!/home/apatel435
+/home/apatel435/*
+
+### scripts
+!/home/apatel435/scripts
+/home/apatel435/scripts/*
+!/home/apatel435/scripts/mntDeb7.sh
+
+## munzir
+!/home/munzir
+/home/munzir/*
+
+## shimin
+!/home/shimin
+/home/shimin/*
