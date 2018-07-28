@@ -10,18 +10,18 @@
 !README.md
 
 ## apatel435
-#!/apatel435
-#/apatel435/*
+!/apatel435
+/apatel435/*
 ##### scripts
-#!/apatel435/scripts
-#/apatel435/scripts/*
+!/apatel435/scripts
+/apatel435/scripts/*
 ###### mntDeb7.sh
-#!/apatel435/scripts/mntDeb7.sh
-#
+!/apatel435/scripts/mntDeb7.sh
+
 #### munzir
-#!/munzir
-#/munzir/*
-#
+!/munzir
+/munzir/*
+
 #### shimin
-#!/shimin
-#/shimin/*
+!/shimin
+/shimin/*
