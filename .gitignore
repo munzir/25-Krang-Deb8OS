@@ -12,18 +12,20 @@
 ## apatel435
 !/apatel435
 /apatel435/*
-##### scripts
+### scripts
 !/apatel435/scripts
 /apatel435/scripts/*
-###### mntDeb7.sh
+#### mntDeb7.sh
 !/apatel435/scripts/mntDeb7.sh
-###### Previous Krang stuff
+### system wide files
+!/apatel435/slash
+### Previous Krang stuff
 !/apatel435/krang
 
-#### munzir
+## munzir
 !/munzir
 /munzir/*
 
-#### shimin
+## shimin
 !/shimin
 /shimin/*
